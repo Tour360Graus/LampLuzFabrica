@@ -1,0 +1,85 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_D968B265_C14E_6D42_41D7_13FE789E6347.source = https://g.page/r/CfARxYdleAt3EAg/review
+LinkBehaviour_9BACBC06_AB27_8F31_41B6_366B8C15E68F.source = https://g.page/r/CfARxYdleAt3EAg/review
+LinkBehaviour_D8236222_C1BD_ECC6_41CF_D2FB96451FB5.source = https://lampluziluminacao.com.br
+LinkBehaviour_D9697267_C14E_6D4E_41CC_FAE3A00A36FA.source = https://lampluziluminacao.com.br
+LinkBehaviour_BB998E66_A73B_8B4D_41DC_2B2DC63F000F.source = https://wa.me/5548996403708
+LinkBehaviour_D9682269_C14E_6D42_41D6_53E4787D67FE.source = https://wa.me/5548996403708
+LinkBehaviour_D98CD6C5_C1B5_F54D_41D6_6D023D10E367.source = https://wa.me/5548996403708
+LinkBehaviour_D96A6266_C14E_6D4E_41C9_E8767F1F2523.source = https://wa.me/5548996403708
+LinkBehaviour_D9697266_C14E_6D4E_41E8_58128A792ACE.source = https://www.facebook.com/lampluz
+LinkBehaviour_D803197B_C1B6_3F45_41E4_30651AB83964.source = https://www.facebook.com/lampluz
+LinkBehaviour_DABBEDCD_C1B2_F742_41E5_8DF1F6130A71.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+F%C3%A1brica/@-27.6056006,-48.6688424,15z/data=!4m2!3m1!1s0x0:0x770b786587c511f0?sa=X&ved=2ahUKEwiGt7Ssv934AhWuqpUCHYK0Ah8Q_BJ6BAhYEB8
+LinkBehaviour_D96B9264_C14E_6D42_41E0_C80555FA506C.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+F%C3%A1brica/@-27.6056006,-48.6688424,15z/data=!4m2!3m1!1s0x0:0x770b786587c511f0?sa=X&ved=2ahUKEwiGt7Ssv934AhWuqpUCHYK0Ah8Q_BJ6BAhYEB8
+LinkBehaviour_D96A9266_C14E_6D4E_41BA_6BBCB5116EFB.source = https://www.instagram.com/lampluzloja
+LinkBehaviour_D82A3648_C1B6_5542_41DA_C1AB29F2A84A.source = https://www.instagram.com/lampluzloja
+
+## Media
+
+### Audio
+audio_EA4FD0DB_C3F2_2D45_41D5_EF762312D2D7.path = null
+audiores_EA74CCB4_C3F3_F5C3_41C5_4606803BBB46.mp3Url = media/audio_EA4FD0DB_C3F2_2D45_41D5_EF762312D2D7_pt.mp3
+audiores_EA74CCB4_C3F3_F5C3_41C5_4606803BBB46.oggUrl = media/audio_EA4FD0DB_C3F2_2D45_41D5_EF762312D2D7_pt.ogg
+
+### Title
+panorama_9F21E518_9336_640B_4188_877A1C7FC604.label = 1 cima novo final-DeNoiseAI-standard
+panorama_99706D32_9336_641F_41D7_AC6A44A0FB47.label = 10 cima final-DeNoiseAI-standard
+panorama_9970BB74_9336_6C1B_41D1_72EC207A3806.label = 11 cima final-DeNoiseAI-standard
+panorama_99702AD1_9336_2C1D_41E1_74B9E389DB7A.label = 12 cima final-DeNoiseAI-standard
+panorama_997DE5CC_9336_640B_41DD_C5DCF8A12A65.label = 2 cima final-DeNoiseAI-standard
+panorama_997105F1_9336_241D_41D4_382FBEB043BD.label = 3 cima final-DeNoiseAI-standard
+panorama_9970253C_9336_240B_41D4_D4D8583A33E6.label = 4 cima final-DeNoiseAI-standard
+panorama_9971C3A1_9336_1C3D_41C5_CBC4C2E098EA.label = 5 cima final-DeNoiseAI-standard
+panorama_99702224_9337_FC3B_41BC_13171E6669DC.label = 6 cima final-DeNoiseAI-standard
+panorama_99703098_9336_1C0B_41E0_8C284E5C7308.label = 7 cima final-DeNoiseAI-standard
+panorama_99701F82_9336_24FF_41DE_DE6501018304.label = 8 cima final-DeNoiseAI-standard
+panorama_99703EBD_9336_2405_41BE_646FDE3B7C34.label = 9 cima final-DeNoiseAI-standard
+panorama_9970D976_9336_2C04_41D1_2DC5DE42FC4C.label = aerea-DeNoiseAI-standard
+panorama_997008D4_9336_EC1B_41E1_4ABD8E68D0EF.label = fachada final-DeNoiseAI-standard
+panorama_9970F749_9336_E40D_41D1_CA09A3C3B47B.label = frente recepcao final-DeNoiseAI-standard
+
+## Skin
+
+### Button
+Button_B015C96F_A7EE_895C_41BE_E04DF84B563D.label = SAIBA MAIS
+Button_B015C96F_A7EE_895C_41BE_E04DF84B563D_mobile.label = SAIBA MAIS
+
+### Image
+Image_A9985585_A4E6_99A4_41E0_101CDA048801.path = null
+Image_A9985585_A4E6_99A4_41E0_101CDA048801_mobile.path = null
+Image_D9174F0A_C1BE_74C6_41DC_CA8ADE6827AF_mobile.path = null
+Image_D9174F0A_C1BE_74C6_41DC_CA8ADE6827AF.path = null
+Image_DAAD60EF_C1B6_2D5E_41E1_28024E4B6F42_mobile.path = null
+Image_DAAD60EF_C1B6_2D5E_41E1_28024E4B6F42.path = null
+Image_D99A1ADE_C1B2_7D7F_41C1_576C578DD84E.path = null
+Image_D99A1ADE_C1B2_7D7F_41C1_576C578DD84E_mobile.path = null
+Image_D9151C44_C1B2_7543_41B1_66E63B0AD726_mobile.path = null
+Image_D9151C44_C1B2_7543_41B1_66E63B0AD726.path = null
+Image_DAAF8DFC_C1B7_F742_41B7_A3973263BA19_mobile.path = null
+Image_DAAF8DFC_C1B7_F742_41B7_A3973263BA19.path = null
+Image_A9985585_A4E6_99A4_41E0_101CDA048801_mobile.url = skin/Image_A9985585_A4E6_99A4_41E0_101CDA048801_mobile_pt.png
+Image_A9985585_A4E6_99A4_41E0_101CDA048801.url = skin/Image_A9985585_A4E6_99A4_41E0_101CDA048801_pt.png
+Image_D9151C44_C1B2_7543_41B1_66E63B0AD726_mobile.url = skin/Image_D9151C44_C1B2_7543_41B1_66E63B0AD726_mobile_pt.png
+Image_D9151C44_C1B2_7543_41B1_66E63B0AD726.url = skin/Image_D9151C44_C1B2_7543_41B1_66E63B0AD726_pt.png
+Image_D9174F0A_C1BE_74C6_41DC_CA8ADE6827AF_mobile.url = skin/Image_D9174F0A_C1BE_74C6_41DC_CA8ADE6827AF_mobile_pt.png
+Image_D9174F0A_C1BE_74C6_41DC_CA8ADE6827AF.url = skin/Image_D9174F0A_C1BE_74C6_41DC_CA8ADE6827AF_pt.png
+Image_D99A1ADE_C1B2_7D7F_41C1_576C578DD84E_mobile.url = skin/Image_D99A1ADE_C1B2_7D7F_41C1_576C578DD84E_mobile_pt.png
+Image_D99A1ADE_C1B2_7D7F_41C1_576C578DD84E.url = skin/Image_D99A1ADE_C1B2_7D7F_41C1_576C578DD84E_pt.png
+Image_DAAD60EF_C1B6_2D5E_41E1_28024E4B6F42_mobile.url = skin/Image_DAAD60EF_C1B6_2D5E_41E1_28024E4B6F42_mobile_pt.png
+Image_DAAD60EF_C1B6_2D5E_41E1_28024E4B6F42.url = skin/Image_DAAD60EF_C1B6_2D5E_41E1_28024E4B6F42_pt.png
+Image_DAAF8DFC_C1B7_F742_41B7_A3973263BA19_mobile.url = skin/Image_DAAF8DFC_C1B7_F742_41B7_A3973263BA19_mobile_pt.png
+Image_DAAF8DFC_C1B7_F742_41B7_A3973263BA19.url = skin/Image_DAAF8DFC_C1B7_F742_41B7_A3973263BA19_pt.png
+
+### Tooltip
+IconButton_E555F1F7_C0F6_EF4D_417D_CE531617321F.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 5
